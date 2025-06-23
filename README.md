@@ -42,7 +42,4 @@ I love attending **Flutter meetups** and am always up for brainstorming app idea
 </p>  
 
 --- 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=akashvtrs)](https://git.io/streak-stats)
-
-
+ 
