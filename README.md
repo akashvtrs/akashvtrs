@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋  
+I'm **Akash M**, a passionate **Full Stack Flutter Developer** from Chennai. 🚀  
 
-<!--
-**akashvtrs/akashvtrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Current Work  
+- Building innovative multi-platform apps (Android, iOS, Web, Windows).  
+- Recently completed an E-commerce app using Flutter and Firebase.  
 
-Here are some ideas to get you started:
+### 🌱 Learning and Growing  
+- Diving deeper into **Flutter Web** and advanced state management with **BLoC**.  
+- Exploring efficient database integrations with **Firebase Firestore** and **SQL**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👯 Collaboration Goals  
+- Open to collaborating on **open-source Flutter projects**.  
+- Excited about working on **E-commerce, financial apps, or SaaS solutions**.  
+
+### 💬 Ask Me About  
+- Flutter development best practices.  
+- Optimizing state management using BLoC or MVVM.  
+- Firebase integrations for apps (Firestore, Authentication, Cloud Functions).  
+
+### 📫 How to Reach Me  
+- **Email**: [akashfivefortyseven@gmail.com](mailto:akashfivefortyseven@gmail.com)  
+- **LinkedIn**: [LinkedIn/Akash M](https://www.linkedin.com/in/akash-m-638475255/)  
+
+### ⚡ Fun Fact  
+I love attending **Flutter meetups** and am always up for brainstorming app ideas over coffee! ☕  
+
+---
+
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashvtrs&show_icons=true&theme=radical)  
