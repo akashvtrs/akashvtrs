@@ -11,7 +11,7 @@ I'm **Akash M**, a passionate **Full Stack Flutter Developer** from Chennai. �
 
 ### 👯 Collaboration Goals  
 - Open to collaborating on **open-source Flutter projects**.  
-- Excited about working on **E-commerce, financial apps, or SaaS solutions**.  
+- Excited about working on **E-commerce, financial apps, or custom softwares**.  
 
 ### 💬 Ask Me About  
 - Flutter development best practices.  
@@ -37,7 +37,7 @@ I love attending **Flutter meetups** and am always up for brainstorming app idea
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/> 
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
 </p>  
 
