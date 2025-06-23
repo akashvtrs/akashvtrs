@@ -43,4 +43,5 @@ I love attending **Flutter meetups** and am always up for brainstorming app idea
 
 --- 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akashvtrs)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=akashvtrs&theme=radical)](https://git.io/streak-stats)
+
