@@ -42,6 +42,6 @@ I love attending **Flutter meetups** and am always up for brainstorming app idea
 </p>  
 
 ---
-
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akashvtrs&show_icons=true&theme=radical)  
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=akashvtrs)](https://git.io/streak-stats) 
